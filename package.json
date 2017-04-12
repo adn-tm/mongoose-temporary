@@ -1,0 +1,26 @@
+{
+  "name": "mongoose-temporary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/adn-tm/mongoose-temporary.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "MongoDB",
+    "Mongoose",
+    "Temporary",
+    "fields"
+  ],
+  "author": "Dmitry Aleynikov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adn-tm/mongoose-temporary/issues"
+  },
+  "homepage": "https://github.com/adn-tm/mongoose-temporary#readme"
+}
